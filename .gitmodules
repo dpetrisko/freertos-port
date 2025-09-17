@@ -1,9 +1,11 @@
 [submodule "dromajo"]
     path = dromajo
     url = https://github.com/ChipsAlliance/dromajo
+    ignore = dirty
 [submodule "riscv-isa-sim"]
     path = riscv-isa-sim
     url = https://github.com/riscv/riscv-isa-sim
+    ignore = dirty
 [submodule "FreeRTOS"]
     path = FreeRTOS
     url = https://github.com/FreeRTOS/FreeRTOS
