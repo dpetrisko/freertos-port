@@ -1,0 +1,16 @@
+[submodule "dromajo"]
+    path = dromajo
+    url = https://github.com/ChipsAlliance/dromajo
+[submodule "riscv-isa-sim"]
+    path = riscv-isa-sim
+    url = https://github.com/riscv/riscv-isa-sim
+[submodule "FreeRTOS"]
+    path = FreeRTOS
+    url = https://github.com/FreeRTOS/FreeRTOS
+[submodule "FreeRTOS-Kernel-Partner-Supported-Ports"]
+    path = FreeRTOS-Kernel-Partner-Supported-Ports
+    url = https://github.com/FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports
+[submodule "FreeRTOS-Partner-Supported-Demos"]
+    path = FreeRTOS-Partner-Supported-Demos
+    url = https://github.com/FreeRTOS/FreeRTOS-Partner-Supported-Demos
+
